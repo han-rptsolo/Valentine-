@@ -17,7 +17,7 @@
     text-align: center;
     margin: 0;
     padding: 75px 0;
-    background: linear-gradient(#ffffff, #f9d6d6);
+    background: linear-gradient(	#ffc5e6, 	#ff2644);
     font-family: "Dancing Script", serif;
   }
   
@@ -63,12 +63,12 @@
   #yes-btn {
     transform-origin: center top;
     color: white;
-    background-color: #57915e;
+    background-color: 	#bf3129;
   }
   
   #no-btn {
     color: white;
-    background-color: #db4e4e;
+    background-color: 		#eea9a9;
   }
   
   @media (max-width: 1150px) {
