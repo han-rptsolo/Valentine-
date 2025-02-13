@@ -18,10 +18,10 @@ const gifs = [
 ];
 
 const buttonMessages = [
-    "Are you sure??",
-    "Please Choose Again",
-    "One More Time",
-    "Button Error!!!!!",
+    "Em chắc chưa?????",
+    "Suy nghĩ kĩ đi nghen",
+    "Cho em thêm một cơ hội nữa",
+    "Không muốn trà sữa à",
 ];
 
 noButton.addEventListener("click", () => {
